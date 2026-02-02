@@ -1,6 +1,6 @@
-# HebrewDateBar 📅
+# HebrewDateWidget 📅
 
-HebrewDateBar is a simple, lightweight macOS utility that lives in your menu bar. It provides the current Hebrew date at a glance, designed to be non-intrusive and strictly native.
+HebrewDateWidget is a simple, lightweight macOS utility that lives in your menu bar. It provides the current Hebrew date at a glance, designed to be non-intrusive and strictly native.
 
 ## ✨ Features
 - **Native Look:** Blends perfectly with the macOS menu bar.
