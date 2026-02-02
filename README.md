@@ -9,7 +9,7 @@ HebrewDateBar is a simple, lightweight macOS utility that lives in your menu bar
 - **FOSS:** Free and Open Source Software under the MIT License.
 
 ## 🚀 Installation
-1. Download [[Releases](../../releases) ](https://github.com/livelybride-faith/HebrewDateWidget/blob/main/HebrewDateWidget.app/Contents/MacOS/HebrewDateWidget) and run.
+1. Download [Distributed App - HebrewDateWidget](https://github.com/livelybride-faith/HebrewDateWidget/blob/main/HebrewDateWidget.app/Contents/MacOS/HebrewDateWidget) and run.
 
 ## 🛠 Build Instructions
 If you want to build the app yourself:
