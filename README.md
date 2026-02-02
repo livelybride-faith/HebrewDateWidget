@@ -21,6 +21,11 @@ If you want to build the app yourself:
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Credits
-- Icons generated using Apple's **SF Symbols**.
+## Credits
 - Date logic powered by Apple's native `Foundation.Calendar` (Hebrew identifier).
+
+## Open Source
+- You can check all the code I used in the app.
+
+## Buy me a coffee 
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
