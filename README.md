@@ -9,7 +9,7 @@ HebrewDateWidget is a simple, lightweight macOS utility that lives in your menu 
 - **FOSS:** Free and Open Source Software under the MIT License.
 
 ## 🚀 Installation
-1. Download [Distributed App - HebrewDateWidget](https://github.com/livelybride-faith/HebrewDateWidget/blob/main/HebrewDateWidget.app/Contents/MacOS/HebrewDateWidget) and run.
+1. Download the latest app from [Distribute](https://github.com/livelybride-faith/HebrewDateWidget/tree/main/HebrewDateWidget/DIST) page and run.
 
 ## 🛠 Build Instructions
 If you want to build the app yourself:
