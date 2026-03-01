@@ -27,5 +27,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Open Source
 - You can check all the code I used in the app.
 
-## Buy me a coffee 
+## Sponsors
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
+
+[![Stripe](https://img.shields.io/badge/Donate-Stripe-626cd9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/14A4gBetB9X01QeaUFeZ200)
